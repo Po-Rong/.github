@@ -11,15 +11,12 @@
 ## 👥 팀원 소개 및 역할 분배
 전 팀원이 프론트엔드와 백엔드를 완전 담당하여 기능을 완성했습니다.
 
-| **이주현 (팀장)** | **고유정** | **서지현** |
-| :---: | :---: | :---: |
-| 메인 페이지, 찾기 페이지 | 팝업 상세, 후기, 마이페이지 | 로그인/회원가입, 관리자 페이지 |
-| 메인/검색/필터 API, 최근 리뷰 API | 리뷰 CRUD, 도감/예약 CRUD API | 회원 CRUD, 팝업 CRUD, 통계 집계 API |
-
 | 이주현 | 고유정 | 서지현 |
 |:------:|:------:|:------:|
 | <img src="https://github.com/hana03030.png" width="100%"/> | <img src="https://github.com/daenggg.png" width="100%"/> | <img src="https://github.com/jhwest-dev.png" width="100%"/> | 
 | [@hana03030](https://github.com/hana03030) | [@daenggg](https://github.com/daenggg) | [@jhwest-dev](https://github.com/jhwest-dev) |
+| 메인 페이지, 찾기 페이지 | 팝업 상세, 후기, 마이페이지 | 로그인/회원가입, 관리자 페이지 |
+| 찜/리뷰 CRUD, 최근 리뷰 API | 도감/예약 CRUD, 혼잡도 API | 회원/팝업 CRUD, 통계 집계 API |
 
 <br>
 
